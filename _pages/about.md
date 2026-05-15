@@ -1,17 +1,17 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# permalink: /
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: headshot.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#  more_info: >
+ #   <p>555 your office number</p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Robin Hall, I am an Assitant Professor of Electromechanical Engineering at [Merrimack College](https://www.merrimack.edu/). I am the PI of the RUNE Lab (Robots for Unmanned Natural Exploration)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining Merrimack in 2025, I received my PhD in Robotics Engineering from Worcester Polytechnic Institute (advised by Prof. Cagdas D. Onal in the [Soft Robotics Lab](https://softrobotics.wpi.edu/)). In 2020, I completed my BS in Electrical Engineering at the University of Rhode Island, where I conducted undergraduate research with Prof. [Paolo Stegagno](https://web.uri.edu/icrl/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on bio-inspired robotics, novel robotic manufacturing, and autonomous decision-making for operation in dynamic environments. I am particularly interested in the intersection of robotics and ecology: how ecological challenges motivate new robotic designs, and how those robotic systems can, in turn, enable new scientific insight into environmental processes that are difficult to observe using existing technologies.
+
+<span style="color: #d71920; font-weight: 500;">
+I am actively recruiting motivated undergraduate and Masters students! 
+</span> 
+If you are passionate about building robots and coding intelligence, please email me at <code>hallrf@merrimack.edu</code>. 
