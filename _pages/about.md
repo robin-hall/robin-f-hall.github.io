@@ -30,9 +30,10 @@ custom_sections:
 
   - title: outreach
     content: |
-      Add your outreach text here.
+      I view science communication as an important part of research: it helps make technical work accessible, connects engineering advances to real-world needs, and broadens participation in robotics and environmental science.
 
-      Example: K-12 robotics demos, public science events, community workshops, etc.
+      - **[2024]** Hand animated explanation of Soft Robotics – [What is Soft Robotics?](https://youtu.be/UsBsoL6iw-8)
+      - **[2023]** Salamander in the Major Taylor George Street Challenge – [Promotional Video](https://youtu.be/StbcuEOdA08)
     
 latest_posts:
   enabled: false
