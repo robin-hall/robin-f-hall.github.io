@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited speaker at the **3rd Unconventional Robots Workshop** at ICRA 2026 ([workshop link)](https://sites.google.com/andrew.cmu.edu/icra26-3rd-unconv-robots/home).
+Invited flash talk at the **3rd Unconventional Robots Workshop** at ICRA 2026 ([workshop link)](https://sites.google.com/andrew.cmu.edu/icra26-3rd-unconv-robots/home).
