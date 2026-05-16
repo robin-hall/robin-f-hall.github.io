@@ -186,3 +186,13 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+
+.bibliography .author > em,
+.bibliography .author em {
+  text-decoration: underline;
+  font-style: normal;
+}
+.pub-video-link,
+.pub-doi-link {
+  color: #0047cc;
+}
