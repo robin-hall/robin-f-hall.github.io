@@ -154,7 +154,18 @@
     transform: rotate(0);
   }
 }
+.lab-navbar-link {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-weight: 600;
+}
 
+.lab-navbar-logo {
+  height: 32px;
+  width: auto;
+  display: inline-block;
+}
 #light-toggle {
   padding: 0;
   border: 0;
